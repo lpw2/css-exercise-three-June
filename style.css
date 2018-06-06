@@ -11,7 +11,7 @@ body {
 
 .container {
   background-color: #000000;
-  padding-top: 10px;
+  padding-top: 5px;
   margin: 0 auto;
   width: 420px;
 }
@@ -24,7 +24,7 @@ nav {
 }
 
 .restaurant-list {
-    padding-top: 50px;
+  padding-top: 50px;
 }
 
 h1 {
@@ -37,6 +37,7 @@ h1 {
 h3 {
   font-size: 150%;
   border-bottom-style: solid;
+  border-color: #959799;
   border-width: 1px;
   padding-bottom: 20px;
   padding-left: 20px;
@@ -54,12 +55,12 @@ h3 {
   float: right;
   border-bottom-style: solid;
   border-width: 1px;
-  padding-top: 31px;
-  padding-bottom: 40px;
+  border-color: #959799;
+  height: 53px;
+  height: 93px;
+  padding-top: 36.5px;
 }
 
 .location:hover {
   background-color: #FFFFFF;
-  width: 100%;
-  float: left;
 }
